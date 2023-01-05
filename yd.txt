@@ -66,7 +66,6 @@ CCTV13,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.
 CCTV14,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
 CCTV15 ,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV16,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
-
 CCTV17,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
@@ -194,9 +193,7 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 法治天地,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
 金色学堂,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
 魅力足球,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
-黑莓电影,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?
-
-servicetype=1&IASHttpSessionId=RR423820220409134714119178
+黑莓电影,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -212,9 +209,6 @@ CBN幸福娱乐,http://livehkkp.chinamcache.com/live/xfyl_4000.m3u8
 CCTV16-4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 CCTV16-4K,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV-4K,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-
-
-
 咪咕体育4K,http://117.136.156.34:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育4K,http://117.136.156.36:80/000000001000/3000000010000005180/index.m3u8
