@@ -127,6 +127,7 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 动漫秀场,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227071/index.m3u8
 哈哈炫动,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225872/index.m3u8
 生活时尚,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8
+都市剧场,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -163,7 +164,7 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 精品体育,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
 
 
-都市剧场,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
+
 古装剧场,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8
 动作电影,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
 惊悚悬疑,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8
