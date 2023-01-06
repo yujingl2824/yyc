@@ -140,7 +140,7 @@ CBN幸福娱乐,http://livehkkp.chinamcache.com/live/xfyl_4000.m3u8
 CCTV16-4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 
-欢笑剧场4,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227145/index.m3u8
+欢笑剧场4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227145/index.m3u8
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://111.11.123.37:6610/000000001000/5000000007000010001/index.m3u8?channelid=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 咪咕体育4K,http://117.136.156.34:80/000000001000/3000000010000005180/index.m3u8
