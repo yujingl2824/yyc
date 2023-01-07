@@ -131,7 +131,10 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-
+CBN每日影院,http://r.jdshipin.com/sE5vO
+CBN幸福剧场,http://r.jdshipin.com/OeHMu
+CBN风尚生活,http://r.jdshipin.com/qrfbg
+CBN幸福娱乐,http://r.jdshipin.com/sXuuD
 CBN每日影院,http://livehkkp.chinamcache.com/live/mryy_4000.m3u8
 CBN幸福剧场,http://livehkkp.chinamcache.com/live/xfjc_4000.m3u8
 CBN风尚生活,http://livehkkp.chinamcache.com/live/fssh_4000.m3u8
