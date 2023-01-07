@@ -80,6 +80,7 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 河南卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227095/index.m3u8
 湖北卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227111/index.m3u8
 湖南卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8
+浙江卫视,http://124.220.17.172:1100/aas.php?id=21
 浙江卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225870/index.m3u8
 云南卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227181/index.m3u8
 甘肃卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
