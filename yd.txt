@@ -106,7 +106,7 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 黑龙江卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227197/index.m3u8
 4#数字,#genre#
 乐游,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
-陶瓷,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227234/index.m3u8
+
 茶频道,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
 纪实人文,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
 纪实科教,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
