@@ -243,7 +243,7 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 东方卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
 东南卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
 黑龙江卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227197/index.m3u8
-4#数字,#genre#
+4#数字频道,#genre#
 乐游,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
 茶频道,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
 纪实人文,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
@@ -259,13 +259,14 @@ CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64
 哒啵赛事,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
 哒啵赛事,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226680/index.m3u8
 哒啵电竞,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227252/index.m3u8
-
-
 先锋兵羽,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
-4KUHD,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
+5#4K专区,#genre#
+
+4KUHD,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 CCTV16-4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
