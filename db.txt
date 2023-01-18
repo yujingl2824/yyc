@@ -6,7 +6,7 @@
 
 
 
-{"sourceName":"🏆吾爱💙1仓🏆","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"},
+{"sourceName":"🏆肥猫在线仓库🏆","sourceUrl": "http://肥猫.love"},
 
 
 {"sourceName":"🏆吾爱💙3仓🏆","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67777/2.json?sign=6uxC2q2PId6OS9Y9ucygvIGl6wvugOzZN3E0Hzl4oCs%3D%3A0"},
